@@ -32,7 +32,8 @@ output:
 output: ![image](https://user-images.githubusercontent.com/121864328/225948286-4e540c79-e3b5-412c-83b3-9df8c997bf61.png)
 
 
-terakhir, terdapat fungsi main yang melakukan perulangan while dan menerima input dari pengguna untuk menampilkan, menambahkan, dan menghapus data. Kemudian, di bawah fungsi "main", dibuat sebuah objek "Laundry" dari kelas "LinkedList" dan menambahkan beberapa data pada awalnya. Setelah itu, fungsi "main" dipanggil untuk memulai program.
+6. terakhir, terdapat fungsi main yang melakukan perulangan while dan menerima input dari pengguna untuk menampilkan, menambahkan, dan menghapus data. 
+7. Kemudian, di bawah fungsi "main", dibuat sebuah objek "Laundry" dari kelas "LinkedList" dan menambahkan beberapa data pada awalnya. Setelah itu, fungsi "main" dipanggil untuk memulai program.
 output:
 
 ![image](https://user-images.githubusercontent.com/121864328/225948989-250ff298-f330-4bff-99f8-e6e10127b09e.png)
