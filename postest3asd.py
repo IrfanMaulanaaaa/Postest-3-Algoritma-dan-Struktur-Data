@@ -59,7 +59,7 @@ def main():
             3. Hapus Data
             4. Tampilkan Riwayat Data Masuk
             5. Tampilkan Riwayat Data yang dihapus''')
-            x = int(input("Masukkan Pilihan (1/2/3) :"))
+            x = int(input("Masukkan Pilihan (1/2/3/4/5) :"))
             if x == 1:
                 Laundry.display()
             elif x == 2:
