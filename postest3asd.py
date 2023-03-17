@@ -2,10 +2,8 @@ from prettytable import PrettyTable
 import os
 x = PrettyTable()
 y = PrettyTable()
-z = PrettyTable()
 x.field_names = ["data masuk"]
 y.field_names = ["Riwayat data masuk"]
-z.field_names = ["Riwayat data yang dihapus"]
 class Node:
     def __init__(self, data):
         self.data = data
@@ -83,7 +81,3 @@ Laundry.addfirst("Abdul Rahman: Bantal dan Guling ")
 Laundry.addfirst("Muhammad Nabil: Jaket")
 Laundry.addfirst("Fauzan Ghifari: Karpet")
 main()
-# Laundry.addfirst(1)
-# Laundry.addfirst(4)
-# # Laundry.deleteFirst()
-# Laundry.display()
